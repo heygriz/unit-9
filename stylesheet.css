@@ -1,0 +1,64 @@
+h1 {
+font-family: 'Bungee Shade', sans-serif;
+text-align: center;
+}
+
+p {
+font-family: 'Prata', serif;	
+text-align:center;
+}
+
+
+.middle {
+	background-image: url("img/top.jpeg");
+	background-repeat: repeat-y;
+	background-position: center;
+	height: 1600px;
+	padding-top: 40px;
+}
+
+
+.header {
+	margin: 40px 0;
+}
+
+.check {
+	text-align: center;
+} 
+
+.dine {
+	text-align: center;
+	margin-top: 40px;
+}
+
+.make {
+	background-color: #ffffff;
+	border: solid 2px black;
+	margin: 5% 0;
+	padding: 20px 40px;
+}
+
+.existing {
+	background-color: #ffffff;
+	border: solid 2px black;
+	margin: 5% 0;
+	padding-top: 20px;
+}
+
+form {
+	font-family: 'Prata', serif;
+}
+
+.review {
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 40px;
+}
+
+.words {
+	font-size: 38px;
+}
+
+#map {
+	margin-top:40px;
+}
